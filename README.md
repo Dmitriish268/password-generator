@@ -37,7 +37,9 @@ cd password-generator
 
 ### Вариант 2: Онлайн версия
 
-Просто откройте [GitHub Pages](https://Dmitriish268.github.io/password-generator/) (если настроено)
+🌐 **Живая версия:** [https://dmitriish268.github.io/password-generator/](https://dmitriish268.github.io/password-generator/)
+
+Просто откройте ссылку в браузере — никаких установок не требуется!
 
 ### Вариант 3: Скачать ZIP
 
