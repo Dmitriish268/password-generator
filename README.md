@@ -2,7 +2,7 @@
 
 > Современный генератор паролей с расчетом времени взлома и проверкой надежности
 
-[![Password Generator](https://img.shields.io/badge/Password-Generator-blue)](https://github.com/yourusername/password-generator)
+[![Password Generator](https://img.shields.io/badge/Password-Generator-blue)](https://github.com/Dmitriish268/password-generator)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Dmitriish268/password-generator.git
 cd password-generator
 ```
 
@@ -37,7 +37,7 @@ cd password-generator
 
 ### Вариант 2: Онлайн версия
 
-Просто откройте [GitHub Pages](https://yourusername.github.io/password-generator/) (если настроено)
+Просто откройте [GitHub Pages](https://Dmitriish268.github.io/password-generator/) (если настроено)
 
 ### Вариант 3: Скачать ZIP
 
@@ -175,7 +175,7 @@ password-generator/
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Dmitriish268/password-generator.git
 cd password-generator
 
 # Откройте index.html в браузере
@@ -196,8 +196,8 @@ python -m http.server 8000
 
 ## 📧 Контакты и поддержка
 
-- 🐛 [Сообщить об ошибке](https://github.com/yourusername/password-generator/issues)
-- 💡 [Предложить улучшение](https://github.com/yourusername/password-generator/issues)
+- 🐛 [Сообщить об ошибке](https://github.com/Dmitriish268/password-generator/issues)
+- 💡 [Предложить улучшение](https://github.com/Dmitriish268/password-generator/issues)
 - 📖 [Документация](README.md)
 
 ## ⭐ Благодарности
@@ -221,7 +221,7 @@ python -m http.server 8000
 
 **Сделано с ❤️ для безопасного интернета**
 
-[⭐ Поставьте звезду](https://github.com/yourusername/password-generator) если проект вам понравился!
+[⭐ Поставьте звезду](https://github.com/Dmitriish268/password-generator) если проект вам понравился!
 
 </div>
 
